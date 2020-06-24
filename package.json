@@ -1,0 +1,22 @@
+{
+  "name": "function-image-upload-resize-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@azure/storage-blob": "^10.3.0",
+    "jimp": "^0.2.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://todd_coulson@bitbucket.org/americanreading/arc-bis-azure-thumbnail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "homepage": "https://bitbucket.org/americanreading/arc-bis-azure-thumbnail/src/master#readme"
+}
