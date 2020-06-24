@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://todd_coulson@bitbucket.org/americanreading/arc-bis-azure-thumbnail.git"
+    "url": "git+https://github.com/toddcoulson/azureThumbs.git"
   },
   "author": "",
   "license": "ISC",
   
-  "homepage": "https://bitbucket.org/americanreading/arc-bis-azure-thumbnail/src/master#readme"
+  "homepage": "https://github.com/toddcoulson/azureThumbs#readme"
 }
